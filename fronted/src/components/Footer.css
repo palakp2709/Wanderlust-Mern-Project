@@ -1,0 +1,38 @@
+.footer{ 
+  margin-top: auto; 
+  width: 100%;
+}
+
+.link{
+    text-decoration: none;
+    color: #222222;
+}
+
+.link:hover{
+    text-decoration: underline;
+}
+
+.f-info{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: space-evenly;
+    height: 6rem;
+    background-color: #ebebeb;
+}
+
+.f-info-socials , .f-info-links  , .f-info-brand{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.f-info-socials i{
+    margin-right: 1rem;
+    font-size: 1.2rem;
+}
+
+

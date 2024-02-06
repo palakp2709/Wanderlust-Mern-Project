@@ -1,0 +1,28 @@
+.listing-card{
+    border: none !important;
+    margin-bottom: 2rem;
+}
+
+.card-img-top{
+    border-radius: 1rem !important;
+    width:100%;
+    object-fit: cover !important;
+    height: 15rem;
+}
+
+.card-body{
+    padding: 0;
+}
+
+.card-img-overlay{
+    opacity: 0;
+}
+
+.card-img-overlay:hover{
+    opacity: 0.2;
+    background-color: white;
+}
+
+.listing-link{
+    text-decoration: none;
+}
