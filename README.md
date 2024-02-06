@@ -11,3 +11,5 @@
 #Implemented Context API in the fronted to manage global state and provide data and functionality to component without prop drilling. Utilized useContext hook to consume context values within functional components.
 
 #Used React Hooks to manage component state.
+
+#Successfully deployed application on Render, a modern cloud platform designed for simplicity and scalability.
